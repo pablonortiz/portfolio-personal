@@ -1,0 +1,113 @@
+{
+  "hero": {
+    "hello": "¡Hola!",
+    "iAm": "Soy",
+    "iAmA": "Soy un",
+    "roles": {
+      "mobile": "Desarrollador Mobile",
+      "software": "Desarrollador de Software",
+      "fullstack": "Desarrollador Full Stack"
+    }
+  },
+  "tech": {
+    "title": "Tecnologías & Proyectos",
+    "subtitle": "Las herramientas que domino y los proyectos que he construido",
+    "myProjects": "Mis Proyectos"
+  },
+  "projects": {
+    "viewDemo": "Ver demo en video",
+    "viewProject": "Ver proyecto",
+    "videoDemo": "Video Demo",
+    "githubCta": "¿Buscas más? ¡Visita mi GitHub!",
+    "items": {
+      "alramed": {
+        "title": "Alramed S.R.L.",
+        "description": "Página web desarrollada en React para empresa de insumos médicos"
+      },
+      "pablovazquez": {
+        "title": "Pablo Vázquez Propiedades",
+        "description": "Página web desarrollada en React para inmobiliaria"
+      },
+      "beatfit": {
+        "title": "BeatFit",
+        "description": "Aplicación móvil para ejercicios físicos"
+      },
+      "catalogador": {
+        "title": "Catalogador de extractos",
+        "description": "App desarrollada en Electron para catalogar extractos bancarios"
+      },
+      "metalurgica": {
+        "title": "Administrador de metalurgica",
+        "description": "App desarrollada en Electron para administrar los gastos, trabajos y clientes de una metalurgica"
+      },
+      "perfumario": {
+        "title": "Perfumario",
+        "description": "Aplicación móvil para administrar los perfumes y sus ventas"
+      }
+    }
+  },
+  "phone": {
+    "myApps": "Mis Apps",
+    "tapToExplore": "Toca para explorar",
+    "liveEmulator": "Emulador en vivo",
+    "aboutApp": "Acerca de esta app",
+    "version": "Versión",
+    "size": "Tamaño",
+    "category": "Categoría",
+    "productivity": "Productividad",
+    "videoDemo": "Demo en Video",
+    "fullscreen": "Ver en pantalla completa",
+    "viewGithub": "Ver en GitHub"
+  },
+  "journey": {
+    "title": "Mi Trayectoria",
+    "subtitle": "El camino que me ha llevado hasta aquí",
+    "items": {
+      "secundaria": {
+        "title": "Secundaria",
+        "description": "Secundaria completa en Instituto Inmaculada Concepción"
+      },
+      "ingles": {
+        "title": "Inglés",
+        "description": "Aprobado el First Certificate in English (FCE) con 180 puntos"
+      },
+      "primerTrabajo": {
+        "title": "Primer Trabajo",
+        "description": "Desarrollador Mobile y de Software en Radio Nacional"
+      },
+      "janis": {
+        "title": "Desarrollador Mobile",
+        "description": "Desarrollador Mobile en Janis Commerce"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contáctame",
+    "subtitle": "¿Tienes un proyecto en mente? ¡Hablemos!",
+    "name": "Nombre",
+    "namePlaceholder": "Tu nombre",
+    "nameRequired": "El nombre es requerido",
+    "email": "Email",
+    "emailPlaceholder": "tu@email.com",
+    "emailRequired": "El email es requerido",
+    "emailInvalid": "Email inválido",
+    "message": "Mensaje",
+    "messagePlaceholder": "Cuéntame sobre tu proyecto...",
+    "messageRequired": "El mensaje es requerido",
+    "sending": "Enviando...",
+    "send": "Enviar Mensaje",
+    "success": "¡Mensaje enviado con éxito! Te contactaré pronto.",
+    "error": "Hubo un error al enviar el mensaje. Por favor, intenta nuevamente."
+  },
+  "footer": {
+    "role": "Desarrollador de Software",
+    "quickLinks": "Enlaces Rápidos",
+    "home": "Inicio",
+    "projects": "Proyectos",
+    "journey": "Trayectoria",
+    "contactLink": "Contacto",
+    "followMe": "Sígueme",
+    "madeWith": "Hecho con",
+    "and": "y"
+  }
+}

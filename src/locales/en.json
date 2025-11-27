@@ -1,0 +1,113 @@
+{
+  "hero": {
+    "hello": "Hello!",
+    "iAm": "I'm",
+    "iAmA": "I'm a",
+    "roles": {
+      "mobile": "Mobile Developer",
+      "software": "Software Developer",
+      "fullstack": "Full Stack Developer"
+    }
+  },
+  "tech": {
+    "title": "Technologies & Projects",
+    "subtitle": "The tools I master and the projects I've built",
+    "myProjects": "My Projects"
+  },
+  "projects": {
+    "viewDemo": "Watch video demo",
+    "viewProject": "View project",
+    "videoDemo": "Video Demo",
+    "githubCta": "Looking for more? Visit my GitHub!",
+    "items": {
+      "alramed": {
+        "title": "Alramed S.R.L.",
+        "description": "React website developed for medical supplies company"
+      },
+      "pablovazquez": {
+        "title": "Pablo Vázquez Properties",
+        "description": "React website developed for real estate agency"
+      },
+      "beatfit": {
+        "title": "BeatFit",
+        "description": "Mobile application for physical exercises"
+      },
+      "catalogador": {
+        "title": "Bank Statement Cataloger",
+        "description": "Electron app developed to catalog bank statements"
+      },
+      "metalurgica": {
+        "title": "Metalworking Manager",
+        "description": "Electron app developed to manage expenses, jobs and clients of a metalworking company"
+      },
+      "perfumario": {
+        "title": "Perfumario",
+        "description": "Mobile application to manage perfumes and their sales"
+      }
+    }
+  },
+  "phone": {
+    "myApps": "My Apps",
+    "tapToExplore": "Tap to explore",
+    "liveEmulator": "Live emulator",
+    "aboutApp": "About this app",
+    "version": "Version",
+    "size": "Size",
+    "category": "Category",
+    "productivity": "Productivity",
+    "videoDemo": "Video Demo",
+    "fullscreen": "View fullscreen",
+    "viewGithub": "View on GitHub"
+  },
+  "journey": {
+    "title": "My Journey",
+    "subtitle": "The path that brought me here",
+    "items": {
+      "secundaria": {
+        "title": "High School",
+        "description": "Completed high school at Inmaculada Concepción Institute"
+      },
+      "ingles": {
+        "title": "English",
+        "description": "Passed the First Certificate in English (FCE) with 180 points"
+      },
+      "primerTrabajo": {
+        "title": "First Job",
+        "description": "Mobile and Software Developer at Radio Nacional"
+      },
+      "janis": {
+        "title": "Mobile Developer",
+        "description": "Mobile Developer at Janis Commerce"
+      }
+    }
+  },
+  "contact": {
+    "title": "Contact Me",
+    "subtitle": "Have a project in mind? Let's talk!",
+    "name": "Name",
+    "namePlaceholder": "Your name",
+    "nameRequired": "Name is required",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "emailRequired": "Email is required",
+    "emailInvalid": "Invalid email",
+    "message": "Message",
+    "messagePlaceholder": "Tell me about your project...",
+    "messageRequired": "Message is required",
+    "sending": "Sending...",
+    "send": "Send Message",
+    "success": "Message sent successfully! I'll contact you soon.",
+    "error": "There was an error sending the message. Please try again."
+  },
+  "footer": {
+    "role": "Software Developer",
+    "quickLinks": "Quick Links",
+    "home": "Home",
+    "projects": "Projects",
+    "journey": "Journey",
+    "contactLink": "Contact",
+    "followMe": "Follow Me",
+    "madeWith": "Made with",
+    "and": "and"
+  }
+}
