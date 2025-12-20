@@ -91,7 +91,7 @@ export const projects = [
       "App desarrollada en Electron para administrar los gastos, trabajos y clientes de una metalurgica",
     image: "/projects/metalurgica.png",
     link: "https://github.com/pablonortiz",
-    videoUrl: "/projects/administrador-metalurgica.mkv",
+    videoUrl: "/projects/administrador-metalurgica.mp4",
     type: "web" as const,
     icon: "Factory" as const, // Icono de industria/metalúrgica
   },
